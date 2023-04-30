@@ -1,6 +1,6 @@
 <h3 align="left">Hi 👋, my name is Lucas Maretti and I am data scientist from São Paulo, Brazil</h3>
 
-I graduated in chemical engineering in 2016 and transitioned to data science in 2019. I have experience working in different sort of projects such as regression, classification, deep learning for image classification.
+I graduated in chemical engineering in 2016 and transitioned to data science in 2019. I have experience working in different sorts of projects such as regression, classification, time-series and deep learning for image classification.
 
 I have extensive experience in industrial applications of data science, data mining and IoT, but am interested and believe that data science and analysis skills can applied in any field.
 
