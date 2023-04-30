@@ -1,5 +1,12 @@
-<h2 align="center">Hi 👋, I'm Lucas Maretti</h1>
-<h3 align="center"> A former chemical engineering now data scientist from Brazil</h3>
+<h3 align="left">Hi 👋, my name is Lucas Maretti and I am data scientist from São Paulo, Brazil</h3>
+
+I graduated in chemical engineering in 2016 and transitioned to data science in 2019. I have experience working in different sort of projects such as regression, classification, deep learning for image classification.
+
+I have extensive experience in industrial applications of data science, data mining and IoT, but am interested and believe that data science and analysis skills can applied in any field.
+
+I am currently a MSc. student at the University of São Paulo, researching industrial applications of data science.
+
+I have also worked with data science in fields such as marketing segmentation, football analytics and others.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmaretti&label=Profile%20views&color=0e75b6&style=flat" alt="lucasmaretti" /> </p>
 
