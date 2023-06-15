@@ -12,7 +12,7 @@ I have also worked with data science in fields such as marketing segmentation, f
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasmaretti" alt="lucasmaretti" /></a> </p>
 
-- 👨‍💻 My favorite data science projects are available [here](https://www.datascienceportfol.io/lucasmaretti)
+- 👨‍💻 My favorite data science projects that I built are available at [https://www.datascienceportfol.io/lucasmaretti](https://www.datascienceportfol.io/lucasmaretti)
 
 - 📝 I regularly write articles on [https://lucasmaretti.medium.com/](https://lucasmaretti.medium.com/)
 
